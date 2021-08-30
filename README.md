@@ -8,4 +8,4 @@ Language: HTML, CSS, Bootstrap.
 
 Text Editor: Visual Studio Code.
 
-I like to thank Aman Kesarwani & LetsGrowMore Community for giving me this opportunity.
+I would like to thank Aman Kesarwani sir & LetsGrowMore Community for giving me this opportunity.
